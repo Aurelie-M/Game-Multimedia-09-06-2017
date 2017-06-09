@@ -1,0 +1,10 @@
+{
+  "name": "game-multimedia",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A game for multimedia course",
+  "author": "aurélie",
+  "devDependencies": {
+
+  }
+}
